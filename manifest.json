@@ -1,0 +1,20 @@
+﻿{
+	"manifest_version": 3,
+	"name": "迅雷-远程下载",
+	"version": "2.0.0",
+	"icons": {
+		"16": "icon64.png",
+		"32": "icon64.png",
+		"48": "icon64.png",
+		"128": "icon128.png"
+	},
+	"description": "在扩展弹窗中打开迅雷云盘远程下载页面。",
+	"action": {
+		"default_icon": {
+			"16": "icon64.png",
+			"32": "icon64.png"
+		},
+		"default_title": "迅雷-远程下载",
+		"default_popup": "popup.html"
+	}
+}
